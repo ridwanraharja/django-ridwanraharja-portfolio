@@ -142,3 +142,8 @@ project_generators/.DS_Store
 # zappa setting file #
 zappa_settings.py
 /.vscode
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyo
+*.pyd
